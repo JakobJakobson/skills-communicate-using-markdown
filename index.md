@@ -6,3 +6,7 @@ This is the place for the commit message?
 ```
 $ git init
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
